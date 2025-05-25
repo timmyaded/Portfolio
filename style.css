@@ -136,7 +136,7 @@ html {
   margin-left: 6dvw;
 }
 
-/* Primary button with cyan background */
+/* Primary button */
 .btn-primary {
   padding: 0.75rem 1.5rem;
   color: antiquewhite;
@@ -182,7 +182,7 @@ html {
   .container {
     padding-left: 1rem;
     padding-right: 1rem;
-    margin-top:30dvh; 
+    margin-top:20dvh; 
   }
 
 
@@ -211,7 +211,7 @@ html {
   .container {
       padding-left: 1rem;
       padding-right: 1rem;
-      margin-top:25dvh; 
+      margin-top:15dvh; 
     }
     .button-group{
       margin-left: 6.7dvw;
@@ -254,7 +254,7 @@ html {
   .container {
       padding-left: 1rem;
       padding-right: 1rem;
-      margin-top:21.5dvh; 
+      margin-top:15dvh; 
     }
     .button-group{
       margin-left: 4.2dvw;
@@ -295,7 +295,7 @@ html {
       flex-direction: row;
   }
   .container{
-    margin-top:10dvh;
+    margin-top:8dvh;
   }
 
   .btn-primary,
