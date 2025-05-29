@@ -104,6 +104,9 @@ html {
   font-size: clamp(1rem, 3vw, 1.5rem);
   margin-right: 0%;
 }
+.blue{
+  color: #00ffff;
+}
 
 .subscript {
   color: #e6d5c2;
